@@ -1,0 +1,69 @@
+h1{
+    background-color: cornflowerblue;
+    color:antiquewhite;
+}
+body{
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: aliceblue;
+    height: auto;
+}
+
+table{
+    border: solid 5px black;
+    width:70%;
+    background-color:#d8d8d8;
+}
+.texto{
+    font-family: Bebas;
+}
+.g{
+    color:cadetblue;
+}
+img{
+    width: 10%;
+    position:relative;
+    float: left;
+    margin-top: 10px;
+    margin-right: 3px;
+}
+.a{
+    background-color: black;
+    color:white;
+    position: relative;
+    top:-20px;
+}
+#lista{
+    font-size: 25px;
+}
+.footer{
+    background-color: gray;
+    position: fixed;
+    top:920px;
+    width:110%;
+    margin-left: -8px;
+}
+.hol{
+    position: relative;
+    right:150px;
+    top:20px;
+    float:right;
+    padding-left: -50px;
+    height:330px;
+}
+
+.historia{
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.texto2{
+    font-size: 16px;
+    font-family: Roboto;
+}
+.enlace{
+    background-color: lightblue;
+    transition: background-color 0.5s;
+}
+.enlace:hover{
+    background-color: black;
+}

@@ -1,0 +1,56 @@
+h1{
+    background-color: cornflowerblue;
+    color:antiquewhite;
+}
+body{
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: aliceblue;
+    height: auto;
+}
+.jj{
+    border: solid 3px black;
+    width:70%;
+    padding:5px;
+    margin-left:3px;
+    background-color: lightgrey;
+}
+p{
+    font-size: 40px;
+    margin-left:3px;
+}
+.o{
+    position: relative;
+    top:-700px;
+    float:right;
+    width: 400px;
+    right: 200px;
+}
+.r{
+    float:right;
+    position: relative;
+    width: 200px;
+    top: -250px;
+    right: -300px;
+}
+.z{
+    position: relative;
+    top:-700px;
+    float:right;
+    width: 300px;
+    right: 200px;
+}
+.k{
+    float:right;
+    position: relative;
+    width: 200px;
+    top: -250px;
+    right: -250px;
+}
+.enlace{
+    background-color: lightblue;
+    transition: background-color 0.5s;
+}
+.enlace:hover{
+    background-color: black;
+}
